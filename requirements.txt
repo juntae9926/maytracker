@@ -1,0 +1,3 @@
+ffmpeg-python
+typing_extensions
+tensorrt==8.0.3.4
